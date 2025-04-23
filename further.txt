@@ -1,0 +1,6 @@
+**Further improvements that can be implemented:**
+- Residual connections
+- Different activation functions like SiLU, GWLU, ...
+- BatchNormalization 
+- GroupNormalization
+- Attention
